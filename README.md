@@ -4,6 +4,13 @@ Build a cat photo app using HTML
 # Live Link
 https://rudrakshdev.github.io/Task-2-Cat-Photo-App/
 
+# Output
+
+![image](https://github.com/RudrakshDev/Task-2-Cat-Photo-App/assets/170597596/d34013a2-2734-462f-a80a-7f2a9bc02f86)
+
+![image](https://github.com/RudrakshDev/Task-2-Cat-Photo-App/assets/170597596/58f1020e-3896-4558-b7c7-14fb55a6a5af)
+
+
 ## Contributing
 
 ### If you'd like to contribute improvements to this Cat Photo App, you're welcome! Here's how:
